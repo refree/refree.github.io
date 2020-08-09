@@ -18,7 +18,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### R 교수학습 자료
 [웹 스크래핑](https://refree.github.io/Web_Scraping/).
 
-[텍스트 네트워트 분석](https://refree.github.io/text_network/)
+[텍스트 네트워트 분석](https://refree.github.io/text_network/).
+
+[스펨 메일 분류](https://refree.github.io/Spam_mail/).
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
