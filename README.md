@@ -9,7 +9,7 @@
 궁금하신 점이 있으시면, `ml4teacher@daum.net`으로 연락 주세요. 감사합니다.
 
 
-```markdown
+
 ### Thesis
 [교육종단연구 분석을 위한 빅데이터 플랫폼 연구 개발 및 응용](http://www.riss.or.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=b0f770ce8948e20bffe0bdc3ef48d419).
 
@@ -28,36 +28,6 @@
 
 [스펨 메일 분류](https://refree.github.io/Spam_mail/).
 
-```
-
-
-### Career
-
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/refree/refree.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
