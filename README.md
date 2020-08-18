@@ -1,8 +1,12 @@
 ## Welcome to J.Park's Pages
 
-You can use the [editor on GitHub](https://github.com/refree/refree.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+안녕하세요, 데이터 기반 세상을 꿈꾸는 교사 입니다. 언제 끝날지 모르는 공부를 지금도 하고 있지만, 그래도 앞선 연구들에 벽돌을 한장 얹는 마음으로 연구하고 있습니다. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+요즘 AI & AI 교육에 사람들의 관심이 참 많습니다. 다행스러운 일이지만, 많은 우려도 지울 수 없습니다. 
+
+하나씩 살펴보는 일을 하려 합니다. 
+
+궁금하신 점이 있으시면, `ml4teacher@daum.net`으로 연락 주세요. 감사합니다. 
 
 ### Thesis
 [교육종단연구 분석을 위한 빅데이터 플랫폼 연구 개발 및 응용](http://www.riss.or.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=b0f770ce8948e20bffe0bdc3ef48d419).
