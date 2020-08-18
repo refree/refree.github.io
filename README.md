@@ -6,8 +6,10 @@
 
 하나씩 살펴보는 일을 하려 합니다. 
 
-궁금하신 점이 있으시면, `ml4teacher@daum.net`으로 연락 주세요. 감사합니다. 
+궁금하신 점이 있으시면, `ml4teacher@daum.net`으로 연락 주세요. 감사합니다.
 
+
+```markdown
 ### Thesis
 [교육종단연구 분석을 위한 빅데이터 플랫폼 연구 개발 및 응용](http://www.riss.or.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=b0f770ce8948e20bffe0bdc3ef48d419).
 
@@ -26,7 +28,8 @@
 
 [스펨 메일 분류](https://refree.github.io/Spam_mail/).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```
+
 
 ### Career
 
