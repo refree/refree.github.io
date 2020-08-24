@@ -28,6 +28,7 @@
 
 [스펨 메일 분류](https://refree.github.io/Spam_mail/).
 
+[문항반응이론 Rasch](https://refree.github.io/rasch).
 ### Blog
 [연습](https://github.com/refree/blog_2020_08_19).
 
