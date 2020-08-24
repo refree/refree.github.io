@@ -28,7 +28,7 @@
 
 [스펨 메일 분류](https://refree.github.io/Spam_mail/).
 
-[문항반응이론 Rasch](https://refree.github.io/rasch). / [Rasch_4 likert](https://refree.github.io/Rasch_1). / [Rasch_5_likert](https://refree.github.io/rasch_5scale). / [Rasch_4점 변환: 그렇지 않다 삭제](https://refree.github.io/rasch_4_1).
+[문항반응이론 Rasch](https://refree.github.io/rasch). / [Rasch_4 likert 변환: 보통이다 삭제](https://refree.github.io/Rasch_1). / [Rasch_5_likert_원래...](https://refree.github.io/rasch_5scale). / [Rasch_4점 변환: 그렇지 않다 삭제](https://refree.github.io/rasch_4_1).
 ### Blog
 [연습](https://github.com/refree/blog_2020_08_19).
 
