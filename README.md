@@ -16,7 +16,9 @@
 ### Paper
 [박정, 조완섭, & 이종범. (2017). R 을 활용한 실과 교육과정 텍스트 마이닝 분석. 한국실과교육학회지, 30(2), 17-33.](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07231534).
 
-[박정, 김진혁, 조완섭, & 이종범. (2018). 고등학교 [진로와 직업] 교육과정 텍스트 네트워크 분석. 진로교육연구, 31(1), 63-80.](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07408574)
+[박정, 김진혁, 조완섭, & 이종범. (2018). 고등학교 '진로와 직업' 교육과정 텍스트 네트워크 분석. 진로교육연구, 31(1), 63-80.](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07408574)
+
+[박정, & 조완섭. (2020). 교육종단연구 분석을 위한 빅데이터 플랫폼 개발 및 적용. 한국빅데이터학회학회지, 5(1), 11-27.](http://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002623949)
 
 ### Book
 [너도 한번 AI 만들어 볼래?](http://www.yes24.com/Product/Goods/90445270)
