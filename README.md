@@ -20,6 +20,10 @@
 
 [박정, & 조완섭. (2020). 교육종단연구 분석을 위한 빅데이터 플랫폼 개발 및 적용. 한국빅데이터학회학회지, 5(1), 11-27.](http://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002623949)
 
+[박정, & 이종범. (2020). 초등학생 진로발달 척도의 Rasch 모형 분석 및 타당화. 실과교육연구, 26(4), 139-160.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002649683)
+
+[박정. (2020). 머신러닝을 활용한 서울시 중학생 진로성숙도 예측 요인 탐색, 5(2), 155-170.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002675665)
+
 ### Book
 [너도 한번 AI 만들어 볼래?](http://www.yes24.com/Product/Goods/90445270)
 
